@@ -1,0 +1,23 @@
+* {
+ margin: 0;
+ padding: 0;   
+}
+
+.play {
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.button_play {
+    width: 120px;
+    height: 60px;
+    background-color: black;
+    color: #ed490d;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.button_play:hover {
+    background-color: bisque;
+    color: black;
+}
+
